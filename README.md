@@ -20,27 +20,19 @@ This project is a toy social network application developed as part of a faculty-
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.jpg)
+![Screenshot 1](![Screenshot 2024-02-15 112841](https://github.com/bicaandrei/ToySocialNetwork/assets/46444446/d86cef42-77b8-4bdf-8b8f-933da56e2b99))
 
-*Screenshot of the user registration page*
-
-![Screenshot 2](screenshot2.jpg)
-
-*Screenshot of the messaging interface between friends*
+![Screenshot 2]( ![Screenshot 2024-02-15 113026](https://github.com/bicaandrei/ToySocialNetwork/assets/46444446/4bfea744-f6a8-4cc5-8889-e2bfd0a67728))
 
 ## Getting Started
 
 To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Set up a PostgreSQL database and configure the connection in the application.
+2. Set up a PostgreSQL database by using the db_socialNetwork file.
 3. Build the project using a Java IDE or command-line tools.
 4. Run the application and explore its features.
 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
