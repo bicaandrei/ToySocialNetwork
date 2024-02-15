@@ -20,9 +20,9 @@ This project is a toy social network application developed as part of a faculty-
 
 ## Screenshots
 
-![Screenshot 1](![Screenshot 2024-02-15 112841](https://github.com/bicaandrei/ToySocialNetwork/assets/46444446/d86cef42-77b8-4bdf-8b8f-933da56e2b99))
+![Screenshot 1](https://github.com/bicaandrei/ToySocialNetwork/assets/46444446/d86cef42-77b8-4bdf-8b8f-933da56e2b99)
 
-![Screenshot 2]( ![Screenshot 2024-02-15 113026](https://github.com/bicaandrei/ToySocialNetwork/assets/46444446/4bfea744-f6a8-4cc5-8889-e2bfd0a67728))
+![Screenshot 2](https://github.com/bicaandrei/ToySocialNetwork/assets/46444446/4bfea744-f6a8-4cc5-8889-e2bfd0a67728)
 
 ## Getting Started
 
